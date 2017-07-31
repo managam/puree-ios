@@ -1,0 +1,6 @@
+framework module Pods_KurioPuree {
+  umbrella header "Pods-KurioPuree-umbrella.h"
+
+  export *
+  module * { export * }
+}
